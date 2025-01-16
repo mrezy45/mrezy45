@@ -7,7 +7,7 @@ mrezy45/README.md
 - Starting my technical wrinting journy check out my articles at medium.com/@mrezy45  
 - I'm open to collaborating on Interesting projects where I can learn new techs & replenish my skills  
 
-💻 Currently Learning  
+💻 Currently Doing 
 - Web Development
 - React Native 
 - Technical Writing   
