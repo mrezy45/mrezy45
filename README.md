@@ -8,6 +8,6 @@ mrezy45/README.md
 - I'm open to collaborating on Interesting projects where I can learn new techs & replenish my skills  
 
 💻 Currently Doing 
-- Web Development
-- React Native 
-- Technical Writing   
+- Web Development with HTML, CSS vanilla javascript,React and Nodejs
+- Mobile application Development with React Native 
+- Technical Writing 
